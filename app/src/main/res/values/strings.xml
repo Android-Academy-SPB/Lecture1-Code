@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTC Mainer</string>
+    <string name="add_btc">ADD BTC</string>
+    <string name="initial_btc">0</string>
+</resources>
